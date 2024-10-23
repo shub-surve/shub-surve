@@ -1,6 +1,4 @@
-Here’s an improved version of your "About Me" section, making it cleaner, more engaging, and modern:
 
----
 
 # 💫 About Me:
 
